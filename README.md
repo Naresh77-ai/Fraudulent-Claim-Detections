@@ -39,5 +39,4 @@ These results suggest that the model is not only effective in identifying fraudu
 
 ---
 
-**Your Name** – [GitHub Profile](https://github.com/your-username)
 
